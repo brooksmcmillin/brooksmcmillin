@@ -1,3 +1,6 @@
+Welcome to my Github! This is currently just a place I throw up some of the projects I'm tinkering on when I have time. Stay tuned for more!
+
+
 [![Website](https://img.shields.io/website?label=brooksmcmillin.com&style=for-the-badge&url=https%3A%2F%2Fbrooksmcmillin.com)](https://brooksmcmillin.com)
 
 <!--
